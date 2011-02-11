@@ -5,6 +5,7 @@ gem "haml", "3.0.12"
 gem "maruku", "0.6.0"
 gem "RedCloth", "4.2.2"
 gem "sinatra", "1.1.0", :require => "sinatra/base"
+gem "heroku", "~>1.17.10"
 
 group :development do
   # gem (RUBY_VERSION =~ /^1.9/) ? "ruby-debug19" : "ruby-debug"
