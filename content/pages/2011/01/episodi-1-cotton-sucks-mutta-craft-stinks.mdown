@@ -1,7 +1,7 @@
 date: 2011-02-09 13:08:27 +0200
 categories: episodit
-read more: Lue lisää episodista
-summary: Maailmanhistorian ensimmäinen Raskaasti-lähetys
+read more: Lue lis&auml;&auml; episodista
+summary: Maailmanhistorian ensimm&auml;inen Raskaasti-l&auml;hetys
 
 #  Episodi 1: Cotton sucks, mutta Craft stinks
 
@@ -28,9 +28,9 @@ summary: Maailmanhistorian ensimmäinen Raskaasti-lähetys
 
 ## Palaute
 
-Lähetä palautteesi osoitteeseen [raskaasti@gmail.com](mailto:raskaasti@gmail.com). Jos haluat päästä
-kommenttisi kera mukaan lähetykseen, lähetä se mp3-tiedostona
-sähköpostisi liitteenä.
+L&auml;het&auml; palautteesi osoitteeseen [raskaasti@gmail.com](mailto:raskaasti@gmail.com). Jos haluat p&auml;&auml;st&auml;
+kommenttisi kera mukaan l&auml;hetykseen, l&auml;het&auml; se mp3-tiedostona
+s&auml;hk&ouml;postisi liitteen&auml;.
 
 Arvostamme kovasti, jos pystyt arvostelemaan show'n [iTunesissa](http://itunes.apple.com/fi/podcast/raskaasti/id419600230).
 
@@ -42,12 +42,12 @@ Tiedotteet [SSL:n mediasivuilla](http://www.ssl.fi/SSL/sslwww.nsf/sp?open&cid=Me
 
 ### Veteraanien SM-hallit
 
-Pekka Itävuolle [hopeaa M30-sarjassa](http://www.varaslahto.net/tulokset/2011/vetsm/su/index.php@cs=20&e=348&r=1.html).
+Pekka It&auml;vuolle [hopeaa M30-sarjassa](http://www.varaslahto.net/tulokset/2011/vetsm/su/index.php@cs=20&e=348&r=1.html).
 
 ## Uutiset
 
 * Minnan valinta vuoden urheilijaksi
-* Anders Nordberg [Vaajakosken Terään](http://www.suunnistus.net/G2/code/apps/news/index.php?WriteID=64186)
+* Anders Nordberg [Vaajakosken Ter&auml;&auml;n](http://www.suunnistus.net/G2/code/apps/news/index.php?WriteID=64186)
 
 ## Blogikierros
 
