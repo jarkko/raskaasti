@@ -3,7 +3,7 @@ categories: episodit
 read more: Lue lis&auml;&auml; episodista
 summary: Hisu-SM:t, haastattelussa hevoskuuri.fi:n Petri Ik&auml;valko, puheenaiheina lis&auml;ksi j&auml;rkiavioliitot sek&auml; sopimattomat harrastukset.
 
-#  Episodi 1: Cotton sucks, mutta Craft stinks
+#  Episodi 2: Ei mik&auml;&auml;n kerrostaloasujan harrastus.
 
 ### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/21941-episodi-2-ei-mikaan-kerrostaloasujan-harrastus)
 
