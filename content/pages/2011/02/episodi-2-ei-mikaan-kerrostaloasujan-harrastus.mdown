@@ -1,7 +1,7 @@
 date: 2011-02-20 13:08:27 +0200
 categories: episodit
 read more: Lue lis&auml;&auml; episodista
-summary: Hisu-SM:t, haastattelussa hevoskuuri.fi:n Petri Ikävalko, puheenaiheina lisäksi järkiavioliitot sekä sopimattomat harrastukset.
+summary: Hisu-SM:t, haastattelussa hevoskuuri.fi:n Petri Ik&auml;valko, puheenaiheina lis&auml;ksi j&auml;rkiavioliitot sek&auml; sopimattomat harrastukset.
 
 #  Episodi 1: Cotton sucks, mutta Craft stinks
 
