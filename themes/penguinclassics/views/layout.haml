@@ -1,7 +1,7 @@
 !!!
-%html{ :lang => "en", "xml:lang" => "en", :xmlns => 'http://www.w3.org/1999/xhtml' }
+%html{ :lang => "fi" }
   %head
-    %meta{ "http-equiv" => "content-type", "content" => "text/html; charset=utf-8" }
+    %meta{ "charset" => "utf-8" }
     - if @description
       %meta{ "name" => "description", "content" => @description }
     - if @keywords
@@ -22,16 +22,17 @@
             =@heading
             %em= no_widow @subtitle
     = yield
-    
+
     #footer
       .wrapper
         = haml :categories, :layout => false
         %br
         = haml :about, :layout => false
         = haml :feed, :layout => false
-      
+
         %p
           Powered by
           %a{ :href => "http://effectif.com/nesta" } nesta
 
     = haml :analytics, :layout => false
+

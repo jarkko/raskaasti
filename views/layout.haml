@@ -1,27 +1,38 @@
 !!!
-%html{ :lang => "en", "xml:lang" => "en", :xmlns => 'http://www.w3.org/1999/xhtml' }
+%html{ :lang => "fi" }
   %head
-    %meta{ "http-equiv" => "content-type", "content" => "text/html; charset=utf-8" }
+    %meta{ "charset" => "utf-8" }
     - if @description
       %meta{ "name" => "description", "content" => @description }
     - if @keywords
       %meta{ "name" => "keywords", "content" => @keywords }
+    %meta{ :name => "verify-v1", :content => "x+lW3LVYYbxDrl5XalxYTfstnsMXROw5HMq7nMAgBTc=" }
     %title= @title
+    %link{ :href => "/css/reset.css", :media => "screen", :rel => "stylesheet", :type => "text/css" }
     %link{ :href => "/css/master.css", :media => "screen", :rel => "stylesheet", :type => "text/css" }
-    - if local_stylesheet?
-      %link{ :href => "/css/local.css", :media => "screen", :rel => "stylesheet", :type => "text/css" }
+    %link{ :href => "/skin/jplayer.blue.monday.css", :media => "screen", :rel => "stylesheet", :type => "text/css" }
     %link{ :href => "/articles.xml", :rel => "alternate", :type => "application/atom+xml" }
-    = haml :analytics, :layout => false
-  %body{ :class => @body_class }
-    #container
-      #header
-        %p.title= @heading
-        %p.subtitle= @subtitle
-      = yield
-      #footer
+    %script{ :src => "http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js", :type => "text/javascript" }
+    %script{ :src => "/js/jquery.jplayer.min.js", :type => "text/javascript" }
+  %body#index
+    #header
+      %h1
+        %a{:href => "/", :title => "home" }
+          %span
+            =@heading
+            %em= no_widow @subtitle
+    = yield
+
+    #footer
+      .wrapper
+        = haml :categories, :layout => false
+        %br
+        = haml :about, :layout => false
+        = haml :feed, :layout => false
+
         %p
           Powered by
-          = succeed "," do
-            %a{ :href => "http://effectif.com/nesta" } nesta
-          designed by
-          %a{ :href => "http://effectif.com" } Graham Ashton
+          %a{ :href => "http://effectif.com/nesta" } nesta
+
+    = haml :analytics, :layout => false
+
