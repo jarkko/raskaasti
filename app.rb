@@ -11,6 +11,7 @@ require File.expand_path('lib/plugins', File.dirname(__FILE__))
 require File.expand_path('lib/overrides', File.dirname(__FILE__))
 
 Nesta::Plugins.load_local_plugins
+Haml::Template.options[:format] = :html5
 
 module Nesta
   class App < Sinatra::Base
