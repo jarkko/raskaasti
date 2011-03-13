@@ -1,7 +1,7 @@
 date: 2011-03-10 13:08:27 +0200
 categories: episodit
 read more: Lue lis&auml;&auml; episodista
-summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu-SM:iä, vihdoin IRMA.
+summary: Oslon loppul&ouml;ylyt, kultaa Siperiasta, Portugal O-Meeting, lis&auml;&auml; hisu-SM:i&auml;, vihdoin IRMA.
 
 #  Episodi 4: Siperiaan
 
@@ -15,11 +15,11 @@ summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu
   <ul>
     <li><a href=
     "http://www.boston.com/bigpicture/2011/02/christchurch_earthquake.html">
-    Uuden-Seelannin maanjäristys</a>, Carsten Jørgensen perheineen
-    asuu kaupungissa, mutta sekä koko perhe että heidän talonsa
+    Uuden-Seelannin maanj&auml;ristys</a>, Carsten J&oslash;rgensen perheineen
+    asuu kaupungissa, mutta sek&auml; koko perhe ett&auml; heid&auml;n talonsa
     ovat kunnossa.</li>
 
-    <li>Oslon loppulöylyt
+    <li>Oslon loppul&ouml;ylyt
 
       <ul>
         <li>Naisten viesti
@@ -32,11 +32,11 @@ summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu
         <li>Miesten viesti
 
           <ul>
-            <li>Jälleen kärjessä viimeisessä vaihdossa.</li>
+            <li>J&auml;lleen k&auml;rjess&auml; viimeisess&auml; vaihdossa.</li>
 
             <li>Lallukan vahva vire.</li>
 
-            <li>Heikkisen paukut syöty tässä vaiheessa
+            <li>Heikkisen paukut sy&ouml;ty t&auml;ss&auml; vaiheessa
             viikkoa.</li>
           </ul>
         </li>
@@ -44,7 +44,7 @@ summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu
         <li>Kalustokeskustelu
 
           <ul>
-            <li>Käsittämättömät erot luistossa, vaikka puhutaan
+            <li>K&auml;sitt&auml;m&auml;tt&ouml;m&auml;t erot luistossa, vaikka puhutaan
             huipputeknologiasta ja ollaan murtomaahiihdon kehdossa,
             jossa on hiihdetty ja olosuhteita tutkittu satoja
             vuosia.</li>
@@ -63,29 +63,29 @@ summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu
     <li>Portugal O-Meeting
 
       <ul>
-        <li>Thierry dominoi miehissä, Simone Niggli naisissa.</li>
+        <li>Thierry dominoi miehiss&auml;, Simone Niggli naisissa.</li>
 
         <li>Tulokset
           <ul>
           <li><a href=
           "http://www.gd4caminhos.com/temp/2011-03-05_POM_stage1_results.html">
-          1. päivä</a></li>
+          1. p&auml;iv&auml;</a></li>
 
           <li><a href=
           "http://www.gd4caminhos.com/temp/2011-03-06_POM_stage2_results.html">
-          2. päivä</a></li>
+          2. p&auml;iv&auml;</a></li>
 
           <li><a href=
           "http://www.gd4caminhos.com/temp/2011-03-07_POM_stage3_results.html">
-          3. päivä&nbsp;</a></li>
+          3. p&auml;iv&auml;&nbsp;</a></li>
 
           <li><a href=
           "http://www.gd4caminhos.com/temp/2011-03-07_POM_sprint_results.html">
-          Yösprintti</a></li>
+          Y&ouml;sprintti</a></li>
 
           <li><a href=
           "http://www.gd4caminhos.com/temp/2011-03-08_POM_stage4_results.html">
-          4. päivä&nbsp;</a></li>
+          4. p&auml;iv&auml;&nbsp;</a></li>
           </ul>
 
         </li>
@@ -97,10 +97,10 @@ summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu
       <ul>
         <li>Sekaviesti, Suomi 9.</li>
 
-        <li>Mäkäräinen pikamatkalla toinen...
+        <li>M&auml;k&auml;r&auml;inen pikamatkalla toinen...
 
           <ul>
-            <li>Reipas vauhti, viimeisellä lenkillä ei jaksanut
+            <li>Reipas vauhti, viimeisell&auml; lenkill&auml; ei jaksanut
             Neunerin vauhdissa.</li>
           </ul>
         </li>
@@ -117,12 +117,12 @@ summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu
     <li>Hisu-SM:t
 
       <ul>
-        <li>Sprintit Iissä
+        <li>Sprintit Iiss&auml;
 
           <ul>
-            <li>Mestareiksi Sonja Mörsky ja Staffan Tunis</li>
+            <li>Mestareiksi Sonja M&ouml;rsky ja Staffan Tunis</li>
 
-            <li>Aika vähän osanottajia</li>
+            <li>Aika v&auml;h&auml;n osanottajia</li>
           </ul>
         </li>
 
@@ -147,7 +147,7 @@ summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu
           <ul>
             <li><a href=
             "http://www.foobar2000.org/">
-            foobar2000-musiikkisoitin</a>, sekä erityisesti sen
+            foobar2000-musiikkisoitin</a>, sek&auml; erityisesti sen
             <a href=
             "http://www.foobar2000.org/components/view/foo_podcatcher">
             podcatcher-plugin</a>.</li>
@@ -165,8 +165,8 @@ summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu
                 <li>Pieni ladattava otsalamppu ison tykin
                 varalampuksi.</li>
 
-                <li>140 lm (eikä 170, kuten virheellisesti
-                lähetyksessä väitin).</li>
+                <li>140 lm (eik&auml; 170, kuten virheellisesti
+                l&auml;hetyksess&auml; v&auml;itin).</li>
               </ul>
             </li>
           </ul>

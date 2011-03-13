@@ -1,11 +1,11 @@
 date: 2011-03-03 13:08:27 +0200
 categories: episodit
 read more: Lue lis&auml;&auml; episodista
-summary: Lomatunnelmissa Oslon erityisasiantuntijana Elmeri Vähänen. Aiheina Oslon kisojen alkupuoli sekä spekulaatiot loppuviikon tapahtumista. Ja koska olimme sekä lomatunnelmissa että erittäin huonojen yhteyksien päässä, fact checking on tässä jaksossa lievästi sanottuna hukassa.
+summary: Lomatunnelmissa Oslon erityisasiantuntijana Elmeri V&auml;h&auml;nen. Aiheina Oslon kisojen alkupuoli sek&auml; spekulaatiot loppuviikon tapahtumista. Ja koska olimme sek&auml; lomatunnelmissa ett&auml; eritt&auml;in huonojen yhteyksien p&auml;&auml;ss&auml;, fact checking on t&auml;ss&auml; jaksossa liev&auml;sti sanottuna hukassa.
 
 #  Episodi 3: Veli Haavepaloheimo
 
-_Lomatunnelmissa Oslon erityisasiantuntijana Elmeri Vähänen. Aiheina Oslon kisojen alkupuoli sekä spekulaatiot loppuviikon tapahtumista. Ja koska olimme sekä lomatunnelmissa että erittäin huonojen yhteyksien päässä, fact checking on tässä jaksossa lievästi sanottuna hukassa.$_
+_Lomatunnelmissa Oslon erityisasiantuntijana Elmeri V&auml;h&auml;nen. Aiheina Oslon kisojen alkupuoli sek&auml; spekulaatiot loppuviikon tapahtumista. Ja koska olimme sek&auml; lomatunnelmissa ett&auml; eritt&auml;in huonojen yhteyksien p&auml;&auml;ss&auml;, fact checking on t&auml;ss&auml; jaksossa liev&auml;sti sanottuna hukassa.$_
 
 ### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/22676-episodi-3-veli-haavepaloheimo)
 
