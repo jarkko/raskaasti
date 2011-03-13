@@ -1,0 +1,177 @@
+date: 2011-03-10 13:08:27 +0200
+categories: episodit
+read more: Lue lis&auml;&auml; episodista
+summary: Oslon loppulöylyt, kultaa Siperiasta, Portugal O-Meeting, lisää hisu-SM:iä, vihdoin IRMA.
+
+#  Episodi 4: Siperiaan
+
+### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/22843-episodi-4-siperiaan)
+
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&amp;width=292&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
+</iframe>
+
+  <h2>Muistiinpanot</h2>
+
+  <ul>
+    <li><a href=
+    "http://www.boston.com/bigpicture/2011/02/christchurch_earthquake.html">
+    Uuden-Seelannin maanjäristys</a>, Carsten Jørgensen perheineen
+    asuu kaupungissa, mutta sekä koko perhe että heidän talonsa
+    ovat kunnossa.</li>
+
+    <li>Oslon loppulöylyt
+
+      <ul>
+        <li>Naisten viesti
+
+          <ul>
+            <li>Virkamiessuorituksella pronssille.</li>
+          </ul>
+        </li>
+
+        <li>Miesten viesti
+
+          <ul>
+            <li>Jälleen kärjessä viimeisessä vaihdossa.</li>
+
+            <li>Lallukan vahva vire.</li>
+
+            <li>Heikkisen paukut syöty tässä vaiheessa
+            viikkoa.</li>
+          </ul>
+        </li>
+
+        <li>Kalustokeskustelu
+
+          <ul>
+            <li>Käsittämättömät erot luistossa, vaikka puhutaan
+            huipputeknologiasta ja ollaan murtomaahiihdon kehdossa,
+            jossa on hiihdetty ja olosuhteita tutkittu satoja
+            vuosia.</li>
+          </ul>
+        </li>
+
+        <li>30km ja 50km (tai hieman ylikin)
+
+          <ul>
+            <li>Suomen naiset heikkoja</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+
+    <li>Portugal O-Meeting
+
+      <ul>
+        <li>Thierry dominoi miehissä, Simone Niggli naisissa.</li>
+
+        <li>Tulokset
+          <ul>
+          <li><a href=
+          "http://www.gd4caminhos.com/temp/2011-03-05_POM_stage1_results.html">
+          1. päivä</a></li>
+
+          <li><a href=
+          "http://www.gd4caminhos.com/temp/2011-03-06_POM_stage2_results.html">
+          2. päivä</a></li>
+
+          <li><a href=
+          "http://www.gd4caminhos.com/temp/2011-03-07_POM_stage3_results.html">
+          3. päivä&nbsp;</a></li>
+
+          <li><a href=
+          "http://www.gd4caminhos.com/temp/2011-03-07_POM_sprint_results.html">
+          Yösprintti</a></li>
+
+          <li><a href=
+          "http://www.gd4caminhos.com/temp/2011-03-08_POM_stage4_results.html">
+          4. päivä&nbsp;</a></li>
+          </ul>
+
+        </li>
+      </ul>
+    </li>
+
+    <li>Ampumahiihdon MM-kisat
+
+      <ul>
+        <li>Sekaviesti, Suomi 9.</li>
+
+        <li>Mäkäräinen pikamatkalla toinen...
+
+          <ul>
+            <li>Reipas vauhti, viimeisellä lenkillä ei jaksanut
+            Neunerin vauhdissa.</li>
+          </ul>
+        </li>
+
+        <li>...ja mestari takaa-ajossa.
+
+          <ul>
+            <li>Rauhallinen alkuvauhti, kiristi lopussa.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+
+    <li>Hisu-SM:t
+
+      <ul>
+        <li>Sprintit Iissä
+
+          <ul>
+            <li>Mestareiksi Sonja Mörsky ja Staffan Tunis</li>
+
+            <li>Aika vähän osanottajia</li>
+          </ul>
+        </li>
+
+        <li>Keskimatkat Joutsenossa
+
+          <ul>
+            <li>Hieman parempi osanotto</li>
+
+            <li>Mestarit Liisa Anttila ja Pasi Kiiskinen.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+
+    <li>IRMA</li>
+
+    <li>Viikon rastinotto
+
+      <ul>
+        <li>Timo:
+
+          <ul>
+            <li><a href=
+            "http://www.foobar2000.org/">
+            foobar2000-musiikkisoitin</a>, sekä erityisesti sen
+            <a href=
+            "http://www.foobar2000.org/components/view/foo_podcatcher">
+            podcatcher-plugin</a>.</li>
+          </ul>
+        </li>
+
+        <li>Jarkko:
+
+          <ul>
+            <li><a href=
+            "http://www.amazon.co.uk/gp/product/B001PMP340/ref=as_li_ss_tl?ie=UTF8&amp;tag=raskaasti-21">
+            LED Lenser H7R</a>
+
+              <ul>
+                <li>Pieni ladattava otsalamppu ison tykin
+                varalampuksi.</li>
+
+                <li>140 lm (eikä 170, kuten virheellisesti
+                lähetyksessä väitin).</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+
