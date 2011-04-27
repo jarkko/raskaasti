@@ -18,7 +18,7 @@ summary: Alkukev&auml;&auml;n kisat, Tiomila-ennakko
     <ul>
       <li>Lumessa kahlaamista</li>
       <ul>
-        <li>tai kierimist&auml; á la Leksa</li>
+        <li>tai kierimist&auml; &aacute; la Leksa</li>
       </ul>
       <li>Paimio vei miehet (Lindeqvist ohitti Leskisen ankkuriosuudella)</li>
       <ul>
