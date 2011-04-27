@@ -7,7 +7,7 @@ summary: Hisu-MM:t, IOF:n MM-mietint&ouml;
 
 ### [Kuuntele episodi]()
 
-<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&amp;width=292&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&width=292&colorscheme=dark&show_faces=false&stream=false&header=false&height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
 </iframe>
 
   <h2>Muistiinpanot</h2>
@@ -30,7 +30,7 @@ summary: Hisu-MM:t, IOF:n MM-mietint&ouml;
       </ul>
     </ul>
   </ul>
-  <li>Hiihtosuunnistuksen MM-kilpailut </li>
+  <li>Hiihtosuunnistuksen MM-kilpailut</li>
   <ul>
     <li>Yleist&auml; h&ouml;pin&auml;&auml; kisoista</li>
     <ul>
@@ -41,15 +41,15 @@ summary: Hisu-MM:t, IOF:n MM-mietint&ouml;
     </ul>
     <li>Tuloskatsaus</li>
     <ul>
-      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent3DA6AA&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEdrgfQu5FHef3McJNXGsErzJRZnQ">Sprintti (miehet)</a></li>
-      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent39BD2D&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGc-eW-EFJPn9PMBh3T1eooiG1U-A">Sprintti (naiset)</a></li>
-      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent43BA13&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFaZU-6IsXzsueTAaNGgj5NBXQ4bw">Keskimatka (miehet)</a></li>
-      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent3FB6F6&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFy3_ntvOg0akwurtL0rCSHIadshw">Keskimatka (naiset)</a></li>
-      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent53EB93&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHe2Y7lBm0emsWj1GWVQhHV-PJVCw">Sprintin sekaviesti </a></li>
-      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent4BA1E1&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGg2s1t-pliJGH5mKr0OFihONJDUg">Pitk&auml; matka</a></li>
+      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent3DA6AA&sa=D&sntz=1&usg=AFQjCNEdrgfQu5FHef3McJNXGsErzJRZnQ">Sprintti (miehet)</a></li>
+      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent39BD2D&sa=D&sntz=1&usg=AFQjCNGc-eW-EFJPn9PMBh3T1eooiG1U-A">Sprintti (naiset)</a></li>
+      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent43BA13&sa=D&sntz=1&usg=AFQjCNFaZU-6IsXzsueTAaNGgj5NBXQ4bw">Keskimatka (miehet)</a></li>
+      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent3FB6F6&sa=D&sntz=1&usg=AFQjCNFy3_ntvOg0akwurtL0rCSHIadshw">Keskimatka (naiset)</a></li>
+      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent53EB93&sa=D&sntz=1&usg=AFQjCNHe2Y7lBm0emsWj1GWVQhHV-PJVCw">Sprintin sekaviesti</a></li>
+      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3DMedia%26screen%3Dnewsscreen%26newsid%3Dcontent4BA1E1&sa=D&sntz=1&usg=AFQjCNGg2s1t-pliJGH5mKr0OFihONJDUg">Pitk&auml; matka</a></li>
     </ul>
   </ul>
-  <li><a href="http://www.google.com/url?q=http%3A%2F%2Fnews.worldofo.com%2F2011%2F03%2F16%2Fwoc-proposal-ready-chasing-start-and-sprint-relay%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE_vM7mMOEt5aSVx1m9BHx50kND7g">WOC proposal ready: Chasing start and sprint relay</a></li>
+  <li><a href="http://www.google.com/url?q=http%3A%2F%2Fnews.worldofo.com%2F2011%2F03%2F16%2Fwoc-proposal-ready-chasing-start-and-sprint-relay%2F&sa=D&sntz=1&usg=AFQjCNE_vM7mMOEt5aSVx1m9BHx50kND7g">WOC proposal ready: Chasing start and sprint relay</a></li>
   <ul>
     <li>Uudet lajit</li>
     <ul>
@@ -76,7 +76,7 @@ summary: Hisu-MM:t, IOF:n MM-mietint&ouml;
   <ul>
     <li>Timo</li>
     <ul>
-      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3Dcontent445184&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHFqf4qM3eWKpUtetuuJlo7QhfO4Q">Rasti ruudussa</a></li>
+      <li><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.suunnistusliitto.fi%2FSSL%2Fsslwww.nsf%2Fsp%3Fopen%26cid%3Dcontent445184&sa=D&sntz=1&usg=AFQjCNHFqf4qM3eWKpUtetuuJlo7QhfO4Q">Rasti ruudussa</a></li>
     </ul>
   </ul>
   <ul>
