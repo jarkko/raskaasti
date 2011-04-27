@@ -6,8 +6,7 @@ summary: Alkukev&auml;&auml;n kisat, Tiomila-ennakko
 #  Episodi 6: Suuri Tiomila-ennakko
 
 ### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/24960-episodi-6-suuri-tiomila-ennakko)
-
-<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&width=292&colorscheme=dark&show_faces=false&stream=false&header=false&height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&amp;width=292&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
 </iframe>
 
   <h2>Muistiinpanot</h2>
