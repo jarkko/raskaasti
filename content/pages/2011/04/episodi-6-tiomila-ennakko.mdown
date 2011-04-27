@@ -7,7 +7,7 @@ summary: Alkukev&auml;&auml;n kisat, Tiomila-ennakko
 
 ### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/24960-episodi-6-suuri-tiomila-ennakko)
 
-<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&amp;width=292&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&width=292&colorscheme=dark&show_faces=false&stream=false&header=false&height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
 </iframe>
 
   <h2>Muistiinpanot</h2>
@@ -51,7 +51,7 @@ summary: Alkukev&auml;&auml;n kisat, Tiomila-ennakko
     <ul>
       <li>Lumitilanne</li>
       <ul>
-        <li>Alku huolestuttava (Kev&auml;ty&ouml;), “helteet” pelastivat muut kisat</li>
+        <li>Alku huolestuttava (Kev&auml;ty&ouml;), &quot;helteet&quot; pelastivat muut kisat</li>
       </ul>
       <li>Tiedotuksen ontuminen</li>
       <li>Kev&auml;ty&ouml;, Siljarastien ongelmat</li>
@@ -95,10 +95,10 @@ summary: Alkukev&auml;&auml;n kisat, Tiomila-ennakko
           <li>Ulricehamn (2., Niggli ja Johansson pois)</li>
           <li>TP, Fincken jalkavaivat, ei juossut viime viikonloppuna, Kinni mukana ja Venla kehittynyt selke&auml;sti</li>
           <li>Lynx: Annemari Leskinen raskaana</li>
-          <li>Koovee: Pinja synnytti juuri, materiaalin leveys ongelma (ainakin tvåmilassa), toisaalta Lisbeth puuttui viime vuonna</li>
+          <li>Koovee: Pinja synnytti juuri, materiaalin leveys ongelma (ainakin tv&aring;milassa), toisaalta Lisbeth puuttui viime vuonna</li>
         </ul>
       </ul>
-      <li>Miehet (<a href="http://10mila.se/2011/index.asp?page=500500&amp;avd=30&amp;lang=0&amp;klass=Herrar&amp;visning=1">joukkueet</a>)</li>
+      <li>Miehet (<a href="http://10mila.se/2011/index.asp?page=500500&avd=30&lang=0&klass=Herrar&visning=1">joukkueet</a>)</li>
       <ul>
         <li>KR j&auml;lleen eritt&auml;in vahva</li>
         <ul>
@@ -114,7 +114,7 @@ summary: Alkukev&auml;&auml;n kisat, Tiomila-ennakko
           <li>Kristiansand</li>
           <ul>
             <li>- Renard, Holger Hott, Hubmann puolikuntoinen (akillesvaivoja viime MM-kisoista saakka)</li>
-            <li>+ Dahlén vahvassa kev&auml;tvireess&auml;</li>
+            <li>+ Dahl&eacute;n vahvassa kev&auml;tvireess&auml;</li>
           </ul>
           <li>Halden</li>
           <ul>
