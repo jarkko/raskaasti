@@ -11,130 +11,256 @@ summary: Alkukev&auml;&auml;n kisat, Tiomila-ennakko
 
   <h2>Muistiinpanot</h2>
 <ul>
-  <li>Alkukauden kisat</li>
-  <ul>
-    <li>Kev&auml;ty&ouml;</li>
+  <li>Alkukauden kisat
+  </li>
+  <li style="list-style: none">
     <ul>
-      <li>Lumessa kahlaamista</li>
-      <ul>
-        <li>tai kierimist&auml; &aacute; la Leksa</li>
-      </ul>
-      <li>Paimio vei miehet (Lindeqvist ohitti Leskisen ankkuriosuudella)</li>
-      <ul>
-        <li>Markuksen ja Virtasen kev&auml;tkunto (my&ouml;s FinnSpring-viesti)</li>
-      </ul>
+      <li>Kev&auml;ty&ouml;
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Lumessa kahlaamista
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>tai kierimist&auml; &aacute; la Leksa
+              </li>
+            </ul>
+          </li>
+          <li>Paimio vei miehet (Lindeqvist ohitti Leskisen ankkuriosuudella)
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Markuksen ja Virtasen kev&auml;tkunto (my&ouml;s FinnSpring-viesti)
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>FinnSpring
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Loistavat olosuhteet
+          </li>
+          <li>F&ouml;hr (akillesj&auml;nneleikkaus, mainio toipuminen) ja Kauppi vahvimmat
+          </li>
+          <li>Muukkonen j&auml;lleen vahvassa kev&auml;tkunnossa (toinen)
+          </li>
+          <li>Ikosella takareisivaivoja
+          </li>
+          <li>K&auml;rkinaisillekin paljon virheit&auml;
+          </li>
+          <li>Viesti miehiss&auml; KR:n ja Nouskin loppuratkaisu
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Suuret erot, vaikka nelj&auml; yhdess&auml; ankkuriosuudelle
+              </li>
+              <li>Taitoharjoittelun puute kev&auml;&auml;ll&auml;?
+              </li>
+            </ul>
+          </li>
+          <li>Naisissa aika heikko taso viestiss&auml;, suurin osa huipuista passaili Siljarasteille.
+          </li>
+        </ul>
+      </li>
+      <li>Siljarastit
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Miesten eliitin mit&auml;t&ouml;inti, rasti v&auml;&auml;r&auml;ss&auml; paikassa
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>F&ouml;hr taas vahvin
+              </li>
+            </ul>
+          </li>
+          <li>Naisissa Minna kohtasi voittajansa.
+          </li>
+        </ul>
+      </li>
+      <li>Yleist&auml;
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Lumitilanne
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Alku huolestuttava (Kev&auml;ty&ouml;), &quot;helteet&quot; pelastivat muut kisat
+              </li>
+            </ul>
+          </li>
+          <li>Tiedotuksen ontuminen
+          </li>
+          <li>Kev&auml;ty&ouml;, Siljarastien ongelmat
+          </li>
+        </ul>
+      </li>
     </ul>
-    <li>FinnSpring</li>
-    <ul>
-      <li>Loistavat olosuhteet</li>
-      <li>F&ouml;hr (akillesj&auml;nneleikkaus, mainio toipuminen) ja Kauppi vahvimmat</li>
-      <li>Muukkonen j&auml;lleen vahvassa kev&auml;tkunnossa (toinen)</li>
-      <li>Ikosella takareisivaivoja</li>
-      <li>K&auml;rkinaisillekin paljon virheit&auml;</li>
-      <li>Viesti miehiss&auml; KR:n ja Nouskin loppuratkaisu</li>
-      <ul>
-        <li>Suuret erot, vaikka nelj&auml; yhdess&auml; ankkuriosuudelle</li>
-        <li>Taitoharjoittelun puute kev&auml;&auml;ll&auml;?</li>
-      </ul>
-      <li>Naisissa aika heikko taso viestiss&auml;, suurin osa huipuista passaili Siljarasteille.</li>
-    </ul>
-    <li>Siljarastit</li>
-    <ul>
-      <li>Miesten eliitin mit&auml;t&ouml;inti, rasti v&auml;&auml;r&auml;ss&auml; paikassa</li>
-      <ul>
-        <li>F&ouml;hr taas vahvin</li>
-      </ul>
-      <li>Naisissa Minna kohtasi voittajansa.</li>
-    </ul>
-    <li>Yleist&auml;</li>
-    <ul>
-      <li>Lumitilanne</li>
-      <ul>
-        <li>Alku huolestuttava (Kev&auml;ty&ouml;), &quot;helteet&quot; pelastivat muut kisat</li>
-      </ul>
-      <li>Tiedotuksen ontuminen</li>
-      <li>Kev&auml;ty&ouml;, Siljarastien ongelmat</li>
-    </ul>
-  </ul>
+  </li>
 </ul>
 <ul>
-  <li><a href="http://www.10mila.se/2011/">Tiomila</a></li>
-  <ul>
-    <li>Kisa (maasto, osuudet, yms)</li>
+  <li>
+    <a href="http://www.10mila.se/2011/">Tiomila</a>
+  </li>
+  <li style="list-style: none">
     <ul>
-      <li>Maasto</li>
-      <ul>
-        <li>L&auml;hialue tuttu 2007 Mannasta.</li>
-        <li>Kartta p&auml;ivitetty, k&auml;yr&auml;t jotakuinkin samat</li>
-        <li>Eritt&auml;in paljon h&ouml;tt&ouml;&auml; lentokent&auml;n l&auml;hist&ouml;ll&auml;, erityisesti kun k-piste n&auml;ytt&auml;&auml; olevan koillisessa.</li>
-        <li>Etel&auml;osa (vain miesten pisimm&auml;t osuudet) eritt&auml;in vaativan n&auml;k&ouml;ist&auml; ja pienipiirteist&auml;.</li>
-      </ul>
-      <li>Osuudet</li>
-      <ul>
-        <li>Miehet</li>
+      <li>Kisa (maasto, osuudet, yms)
+      </li>
+      <li style="list-style: none">
         <ul>
-          <li>Pitk&auml;t alkuosuudet (12, 13, 12, 16 km), joten kovaa kalustoa n&auml;ill&auml; p&auml;tkill&auml;.</li>
-          <li>5.-7. osuudet arvioitu eritt&auml;in nopeiksi (esim. 5. 8,4 km, 46 min)</li>
+          <li>Maasto
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>L&auml;hialue tuttu 2007 Mannasta.
+              </li>
+              <li>Kartta p&auml;ivitetty, k&auml;yr&auml;t jotakuinkin samat
+              </li>
+              <li>Eritt&auml;in paljon h&ouml;tt&ouml;&auml; lentokent&auml;n l&auml;hist&ouml;ll&auml;, erityisesti kun k-piste n&auml;ytt&auml;&auml; olevan koillisessa.
+              </li>
+              <li>Etel&auml;osa (vain miesten pisimm&auml;t osuudet) eritt&auml;in vaativan n&auml;k&ouml;ist&auml; ja pienipiirteist&auml;.
+              </li>
+            </ul>
+          </li>
+          <li>Osuudet
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Miehet
+              </li>
+              <li style="list-style: none">
+                <ul>
+                  <li>Pitk&auml;t alkuosuudet (12, 13, 12, 16 km), joten kovaa kalustoa n&auml;ill&auml; p&auml;tkill&auml;.
+                  </li>
+                  <li>5.-7. osuudet arvioitu eritt&auml;in nopeiksi (esim. 5. 8,4 km, 46 min)
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Hajonta?
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Per-Ove Kivis&auml;kk
+              </li>
+            </ul>
+          </li>
         </ul>
-      </ul>
-      <li>Hajonta?</li>
-      <ul>
-        <li>Per-Ove Kivis&auml;kk</li>
-      </ul>
+      </li>
+      <li>Ennakkosuosikit
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Naiset
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Onko suomalaisilla sijaa kolmen parhaan joukossa?
+              </li>
+              <li>Vaikea ennustettava t&auml;n&auml; vuonna, niin monilla joko ongelmia tai raskaana.
+              </li>
+              <li style="list-style: none">
+                <ul>
+                  <li>Liding&ouml; (1.) ja Domnarvet (4.)
+                  </li>
+                  <li>Esim. Halden (3. viime vuonna): Hausken, Klechova, Nilsson pois.
+                  </li>
+                  <li>Ulricehamn (2., Niggli ja Johansson pois)
+                  </li>
+                  <li>TP, Fincken jalkavaivat, ei juossut viime viikonloppuna, Kinni mukana ja Venla kehittynyt selke&auml;sti
+                  </li>
+                  <li>Lynx: Annemari Leskinen raskaana
+                  </li>
+                  <li>Koovee: Pinja synnytti juuri, materiaalin leveys ongelma (ainakin tv&aring;milassa), toisaalta Lisbeth puuttui viime vuonna
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Miehet (<a href="http://10mila.se/2011/index.asp?page=500500&amp;avd=30&amp;lang=0&amp;klass=Herrar&amp;visning=1">joukkueet</a>)
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>KR j&auml;lleen eritt&auml;in vahva
+              </li>
+              <li style="list-style: none">
+                <ul>
+                  <li>Martomaan vakuuttava kev&auml;tkunto (lopettaa t&auml;h&auml;n kauteen Hevoskuurin mukaan)
+                  </li>
+                </ul>
+              </li>
+              <li>Ter&auml; paperilla pelottavan kova
+              </li>
+              <li style="list-style: none">
+                <ul>
+                  <li>Nordberg
+                  </li>
+                  <li>Sorvisto hurjassa kev&auml;tkunnossa.
+                  </li>
+                </ul>
+              </li>
+              <li>norjalaiset eiv&auml;t yht&auml; vahvan kuuloisia kuin viime vuonna, toisaalta lumiolosuhteet heid&auml;n puolellaan.
+              </li>
+              <li style="list-style: none">
+                <ul>
+                  <li>Kristiansand
+                  </li>
+                  <li style="list-style: none">
+                    <ul>
+                      <li>- Renard, Holger Hott, Hubmann puolikuntoinen (akillesvaivoja viime MM-kisoista saakka)
+                      </li>
+                      <li>+ Dahl&eacute;n vahvassa kev&auml;tvireess&auml;
+                      </li>
+                    </ul>
+                  </li>
+                  <li>Halden
+                  </li>
+                  <li style="list-style: none">
+                    <ul>
+                      <li>- Karlsson, Nordberg, Kirka
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>S&ouml;dis vahvistunut, tasaisuus on vahvuus mutta loppuosuuksilla ei kuitenkaan ehk&auml; aivan KR:n, Haldenin tai edes Ter&auml;n veroinen.
+              </li>
+              <li>Yll&auml;tt&auml;j&auml;: J&auml;rla?
+              </li>
+              <li style="list-style: none">
+                <ul>
+                  <li>Paljon nuoria lupauksia
+                  </li>
+                  <li>Bostr&ouml;m ja Holmberg j&auml;rkytt&auml;v&auml;ss&auml; kunnossa
+                  </li>
+                  <li>UZBE
+                  </li>
+                  <li>leveys ja voittamisen kulttuuri?
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
     </ul>
-    <li>Ennakkosuosikit</li>
+  </li>
+  <li>Viikon rastinotto
+  </li>
+  <li style="list-style: none">
     <ul>
-      <li>Naiset</li>
-      <ul>
-        <li>Onko suomalaisilla sijaa kolmen parhaan joukossa?</li>
-        <li>Vaikea ennustettava t&auml;n&auml; vuonna, niin monilla joko ongelmia tai raskaana.</li>
-        <ul>
-          <li>Liding&ouml; (1.) ja Domnarvet (4.)</li>
-          <li>Esim. Halden (3. viime vuonna): Hausken, Klechova, Nilsson pois.</li>
-          <li>Ulricehamn (2., Niggli ja Johansson pois)</li>
-          <li>TP, Fincken jalkavaivat, ei juossut viime viikonloppuna, Kinni mukana ja Venla kehittynyt selke&auml;sti</li>
-          <li>Lynx: Annemari Leskinen raskaana</li>
-          <li>Koovee: Pinja synnytti juuri, materiaalin leveys ongelma (ainakin tv&aring;milassa), toisaalta Lisbeth puuttui viime vuonna</li>
-        </ul>
-      </ul>
-      <li>Miehet (<a href="http://10mila.se/2011/index.asp?page=500500&avd=30&lang=0&klass=Herrar&visning=1">joukkueet</a>)</li>
-      <ul>
-        <li>KR j&auml;lleen eritt&auml;in vahva</li>
-        <ul>
-          <li>Martomaan vakuuttava kev&auml;tkunto (lopettaa t&auml;h&auml;n kauteen Hevoskuurin mukaan)</li>
-        </ul>
-        <li>Ter&auml; paperilla pelottavan kova</li>
-        <ul>
-          <li>Nordberg</li>
-          <li>Sorvisto hurjassa kev&auml;tkunnossa.</li>
-        </ul>
-        <li>norjalaiset eiv&auml;t yht&auml; vahvan kuuloisia kuin viime vuonna, toisaalta lumiolosuhteet heid&auml;n puolellaan.</li>
-        <ul>
-          <li>Kristiansand</li>
-          <ul>
-            <li>- Renard, Holger Hott, Hubmann puolikuntoinen (akillesvaivoja viime MM-kisoista saakka)</li>
-            <li>+ Dahl&eacute;n vahvassa kev&auml;tvireess&auml;</li>
-          </ul>
-          <li>Halden</li>
-          <ul>
-            <li>- Karlsson, Nordberg, Kirka</li>
-          </ul>
-        </ul>
-        <li>S&ouml;dis vahvistunut, tasaisuus on vahvuus mutta loppuosuuksilla ei kuitenkaan ehk&auml; aivan KR:n, Haldenin tai edes Ter&auml;n veroinen.</li>
-        <li>Yll&auml;tt&auml;j&auml;: J&auml;rla?</li>
-        <ul>
-          <li>Paljon nuoria lupauksia</li>
-          <li>Bostr&ouml;m ja Holmberg j&auml;rkytt&auml;v&auml;ss&auml; kunnossa</li>
-          <li>UZBE</li>
-          <li>leveys ja voittamisen kulttuuri?</li>
-        </ul>
-      </ul>
+      <li>
+        <a href="http://vjsport.fi/kengat/irock/">IRock</a>
+      </li>
+      <li>
+        <a href="http://www.tre.se/Privat/Mobilt-bredband/DataPrepaidPage/">3Bredband Kontant Prepaid-liittym&auml;</a>.
+      </li>
     </ul>
-  </ul>
-  <li>Viikon rastinotto</li>
-  <ul>
-    <li><a href="http://vjsport.fi/kengat/irock/">IRock</a></li>
-    <li><a href="http://www.tre.se/Privat/Mobilt-bredband/DataPrepaidPage/">3Bredband Kontant Prepaid-liittym&auml;</a>.</li>
-  </ul>
+  </li>
 </ul>
 
