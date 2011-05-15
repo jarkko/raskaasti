@@ -1,0 +1,208 @@
+date: 2011-05-06 13:08:27 +0200
+categories: episodit
+read more: Lue lis&auml;&auml; episodista
+summary: Suomalaisjuhlaa 10milassa, suuri videosota, uusi Garmin, Jukolan tv-ennakot ja j&auml;lleen kerran kuulijapalautetta.
+
+#  Episodi 7: Suomalaisten Tiomila
+
+### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/25412-episodi-7-suomalaisten-10mila)
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&amp;width=292&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
+</iframe>
+
+<ul>
+  <li>Muut uutiset
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>Katsojapalaute
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Paila: &ldquo;Sano nyt perkele sille Mikkolalle, ett&auml; lopettaa sen kirjakielen ja virkamiespuheen ;)&rdquo;
+          </li>
+        </ul>
+      </li>
+      <li>Videosota VJ vs. Sveitsin pojat
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Thierryn videot [<a href="http://www.youtube.com/watch?v=D2a81aAJLas">1</a>, <a href="http://youtu.be/YogCgkuQx94">2</a>]
+          </li>
+          <li>
+            <a href="http://www.youtube.com/watch?v=XUo0JrEeRiQ&amp;feature=related">Rollierin vastaus</a>
+          </li>
+          <li>
+            <a href="http://news.worldofo.com/2011/04/17/swiss-team-having-fun-with-gueorgiou-vj-commercial/">World of O:n juttu aiheesta</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="http://www.dcrainmaker.com/2011/04/garmin-forerunner-610-in-depth-review.html">Garmin 610</a>
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Uusi kosketusk&auml;ytt&ouml;liittym&auml;, ei en&auml;&auml; vanhaa rinkulaa
+          </li>
+          <li>SirfStar IV -siru
+          </li>
+          <li>Ei varsinaisesti uusia ominaisuuksia verrattuna 410:een
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Edelleen samat tutut speksit
+              </li>
+              <li style="list-style: none">
+                <ul>
+                  <li>Vain roiskevesitiivis
+                  </li>
+                  <li style="list-style: none">
+                    <ul>
+                      <li>tosin itsell&auml; ei koskaan ongelmia 405:n kanssa, vaikka se p&auml;&auml;ll&auml; on tullut uitua ja saunottuakin joskus.
+                      </li>
+                    </ul>
+                  </li>
+                  <li>Vain 8 tunnin akku
+                  </li>
+                  <li style="list-style: none">
+                    <ul>
+                      <li>Ei t&auml;ysmatkan triatlonisteille, rogaining-heeboille tai seikkailu-urheilijoille.
+                      </li>
+                    </ul>
+                  </li>
+                  <li>Ei barometri&auml;, korkeusmittaus perustuu edelleen vain gps-dataan, joka on kohtuuperseest&auml;.
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Mit&auml; j&auml;rke&auml; oli tuoda 410 markkinoille vain parin kuukauden takia?
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Vrt. esim. Applen tuotesykli
+              </li>
+              <li>Sekoittaa mahdollisia asiakkaita
+              </li>
+              <li>410:n ostajia kyrsii, itse&auml;kin h&auml;vett&auml;&auml; ett&auml; tuli suositelluksi.
+              </li>
+            </ul>
+          </li>
+          <li>Kannattaako ostaa?
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Ei varmaankaan, jos tuore 405/410
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Jukola tv-ennakko
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Yle Areenalta? (kaikki suorana, ei maarajauksia, ei maksuja)
+          </li>
+          <li>N&auml;kyyk&ouml; juuri julkaistulla Yle HD:ll&auml;? (ei varmuutta, ty&ouml;t&auml; tehd&auml;&auml;n sen eteen)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Tiomila
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>Yleist&auml; (j&auml;rjestelyt, radat, tulosten t&ouml;kkiminen, yms.)
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Kilpailukeskus t&auml;n&auml; vuonna hyv&auml;, tosin paljon h&ouml;tt&ouml;&auml; radoissa keskuksen l&auml;hell&auml;.
+          </li>
+          <li>L&auml;ht&ouml;j&auml;rjestelyjen pimitys.
+          </li>
+          <li>Kokeillaan joka vuosi jotain uutta, mutta mit&auml;&auml;n ei koskaan tehd&auml; valmiiksi tai kunnolla. (vrt. MM-kisat 2004)
+          </li>
+          <li>Tulosj&auml;rjestelm&auml; ei toiminut ollenkaan nuorten ja naisten viestin aikana, toimi hetken miesten kisan alussa, ja lopetti j&auml;lleen toimintansa
+          </li>
+          <li>Web-l&auml;hetys ja sen jakaminen j&auml;lkik&auml;teen pirate bayssa positiivista.
+          </li>
+          <li>Propsit Hevoskuurin Petri Ik&auml;valkolle, HK oli varmasti videol&auml;hetyksen j&auml;lkeen paras tapa pysy&auml; k&auml;rryill&auml; siit&auml;, mit&auml; kisassa tapahtui.
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Ansioitunutta uhrautumista ilman hanskoja l&auml;pi p&auml;iv&auml;n ja y&ouml;n
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Suomalaisvoittojen viikonloppu
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>My&ouml;s nuorissa voitto l&auml;hell&auml;, kakkos- ja kolmossijat Suomeen
+          </li>
+        </ul>
+      </li>
+      <li>Naiset
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Ennakkosuosikit pitiv&auml;t hyvin paikkansa
+          </li>
+        </ul>
+      </li>
+      <li>Miehet
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Ennakkosuosikit pitiv&auml;t varsin hyvin my&ouml;s miehiss&auml;
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>KR
+              </li>
+              <li>Halden
+              </li>
+              <li>S&ouml;dis
+              </li>
+              <li>Suomalaisista Ter&auml; ja Delta pettymyksi&auml; materiaaliin n&auml;hden.
+              </li>
+            </ul>
+          </li>
+          <li>Jokerikorttimme J&auml;rla jopa odotuksia parempi
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Olle Bostr&ouml;m pitk&auml;n y&ouml;n kuningas, ensimm&auml;ist&auml; vuotta miehiss&auml; (tosin jo hopeaa SM-y&ouml;ss&auml; Oleksander Ktratovin j&auml;lkeen)
+              </li>
+            </ul>
+          </li>
+          <li>M&uuml;llerin kielletyn alueen k&auml;ytt&ouml;
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Kielsi, vaikka GPS:n mukaan syv&auml;ll&auml; kielletyll&auml; alueella
+              </li>
+              <li>Erikoinen tapa laittaa noin suuria alueita kielletyksi l&auml;hell&auml; optimireitinvalintaa ilman viitoitusta.
+              </li>
+              <li>Selostajien t&auml;ydellinen vaikeneminen, vaikka Sailan kohdalla (jossa oli selv&auml;&auml;, ett&auml; kyseess&auml; gps:n virhe, koska juoksi tiet&auml; pitkin) alettiin heti spekuloida hylsyst&auml;.
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Viikon rastinotto
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>Timpe: <a href="http://www.sonycreativesoftware.com/">Sony Vegas</a>&nbsp;
+      </li>
+      <li>Jarkko: <a href="http://10mila.se/2011/index.asp?page=851&amp;avd=20&amp;lang=0">L&aring;nga nattens folk -kirja</a>
+      </li>
+    </ul>
+  </li>
+</ul>
