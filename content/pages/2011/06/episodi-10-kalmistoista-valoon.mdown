@@ -1,0 +1,251 @@
+date: 2011-06-11 13:08:27 +0200
+categories: episodit
+read more: Lue lis&auml;&auml; episodista
+summary: SM-sprintit, levyrikot sek&auml; helmi&auml;isen&auml; Venlojen viestin ratamestarin Jarkko Liuhan haastattelu.
+
+#  Episodi 10: Kalmistoista valoihin
+
+### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/26923-episodi-10-kalmistoista-valoon)
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&amp;width=292&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
+</iframe>
+
+  <h2>Muistiinpanot</h2>
+
+<ul>
+  <li>Alustus: teknoraita
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>kone paskana, her&auml;tti kysymyksen redundantista setupista
+      </li>
+      <li>SSD:n luotettavuus tiedontallennukseen vs. normaali kovo?
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>
+            <a href="http://www.codinghorror.com/blog/2011/05/the-hot-crazy-solid-state-drive-scale.html">Jeff Atwood</a>
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>I feel ethically and morally obligated to let you in on a dirty little secret I&#x27;ve discovered in the last two years of full time SSD ownership. Solid state hard drives fail. A lot. And not just any fail. I&#x27;m talking about catastrophic, oh-my-God-what-just-happened-to-all-my-data instant gigafail. It&#x27;s not pretty.
+              </li>
+            </ul>
+          </li>
+          <li>Otettava huomioon (siksi mulla kolmen vuoden AppleCare, SSD:n arvo edelleen 500&euro;, eli 1.5 kertaa AppleCaren hinta), todenn&auml;k&ouml;isesti hajoaa kolmen vuoden aikana.
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Toisaalta niin hajoavat kovalevytkin, erityisesti l&auml;pp&auml;rik&auml;yt&ouml;ss&auml;, jossa tulee kolhuja.
+              </li>
+              <li>Toisaalta jos on joskus k&auml;ytt&auml;nyt SSD:t&auml;, ei normilevyyn ole paluuta k&auml;ytt&ouml;j&auml;rjestelm&auml;levyk&auml;yt&ouml;ss&auml;.
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Kaksi konetta (esim. p&ouml;yt&auml;kone + l&auml;pp&auml;ri)
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>plussaa
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>eritt&auml;in todenn&auml;k&ouml;isesti molemmat eiv&auml;t hajoa samaan aikaan
+              </li>
+              <li>muutama menetetty p&auml;iv&auml; == uuden koneen hinta.
+              </li>
+            </ul>
+          </li>
+          <li>miinusta
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>tietojen synkronointi
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>iCloud
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Applen maanantain julkaisut
+          </li>
+          <li>Datan automaattinen synkronointi kaikkien laitteiden (iPhone, koneet, iPad) v&auml;lill&auml; + varmuuskopiointi, kanooninen tieto palvelimella.
+          </li>
+        </ul>
+      </li>
+      <li>Suunnitelma
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>MacBook Air + iMac/Mac Pro? Vai vain uusi MBP?
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Thunderbolt
+              </li>
+              <li style="list-style: none">
+                <ul>
+                  <li>tuli jo iMaciin ja MBP:hen
+                  </li>
+                  <li style="list-style: none">
+                    <ul>
+                      <li>mutta iMacin toimitusaika SSD:lla nelj&auml; viikkoa
+                      </li>
+                    </ul>
+                  </li>
+                  <li>p&auml;ivitettyj&auml; MBA:ta ja Mac Prota ei tullutkaan maanantaina
+                  </li>
+                  <li style="list-style: none">
+                    <ul>
+                      <li>liikaa julkaistavaa
+                      </li>
+                      <li>odotuksissa silti pian
+                      </li>
+                    </ul>
+                  </li>
+                  <li>Yht&auml;&auml;n liittym&auml;&auml; k&auml;ytt&auml;v&auml;&auml; lis&auml;laitetta ei ole viel&auml; myynniss&auml;:
+                  </li>
+                  <li style="list-style: none">
+                    <ul>
+                      <li>Julkaistut:
+                      </li>
+                      <li style="list-style: none">
+                        <ul>
+                          <li>
+                            <a href="http://www.lacie.com/us/products/product.htm?id=10549">Lacie Little Big Disk</a>
+                          </li>
+                          <li style="list-style: none">
+                            <ul>
+                              <li>2 SSD:t&auml; RAID 0:ssa 8-0
+                              </li>
+                            </ul>
+                          </li>
+                          <li>
+                            <a href="http://www.promise.com/storage/raid_series.aspx?m=192&amp;region=en-global&amp;rsn1=40&amp;rsn3=47">Promise Pegasus RAID R4 ja R6&nbsp;</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Liuhan haastattelu
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>Jarkon suunnistajan tausta
+      </li>
+      <li>Miten ajautui Venlojen ratamestariksi
+      </li>
+      <li>Ajatuksia kisasta ja maastosta
+      </li>
+    </ul>
+  </li>
+  <li>Valinnat
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>
+        <a href="http://www.suunnistusliitto.fi/SSL/sslwww.nsf/sp?open&amp;cid=Huippu&amp;screen=newsscreen&amp;newsid=content1E51D4">NORT</a>
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Miehet
+          </li>
+          <li>Naiset
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="http://www.suunnistusliitto.fi/SSL/sslwww.nsf/sp?open&amp;cid=Huippu&amp;screen=newsscreen&amp;newsid=content203B9F">Euromeeting</a>
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Miehet
+          </li>
+          <li>Naiset
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>SM-sprint
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>ei sprintti&auml; ilman debattia
+      </li>
+      <li>Nuoret naiset
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>vanhemmat painostamassa tuomarineuvostoa =&gt; hyv&auml;ksyttiin
+          </li>
+          <li>Tahvosen vastaus pesupaikalla
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>krepit oikealla paikalla jyrk&auml;nteen alla
+              </li>
+              <li>ei yhten&auml;inen viitoitus
+              </li>
+              <li>v&auml;&auml;r&auml; tuomio tuomarineuvostolta?
+              </li>
+              <li>Merkkaustapa oli oikea, siis sellainen mik&auml; kartassa piirretty
+              </li>
+              <li>Suunnistajien syyt&auml; kerrata kiellettyjen alueiden merkkaustavat (yhten&auml;inen viiva, katkoviiva, ei reunaviivaa)
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Huippuliigan viimeinen rasti, paksu jyrk&auml;nne
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>aika matala kokonaisuudessaan, hypp&auml;&auml;m&auml;ll&auml; helposti alas
+          </li>
+          <li>miten yl&auml;puolelta voi erottaa, kun jyrk&auml;nteen p&auml;&auml;t eiv&auml;t kuitenkaan yksiselitteisi&auml;?
+          </li>
+          <li>pit&auml;isik&ouml; ep&auml;selv&auml;t paikat j&auml;lleen viitoittaa?
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Viikon rastinotto
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>Timo ( Leiv&auml;n l&auml;hituotanto, leipomonmyym&auml;l&auml;t. Ei linkki&auml; erityiseen tuotemerkkiin.)
+      </li>
+      <li>Jarkko
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>
+            <a href="http://5by5.tv/criticalpath/1">The Critical Path</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Lopetus
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>kuuntelijapalaute raskaasti@gmail.com
+      </li>
+    </ul>
+  </li>
+</ul>
