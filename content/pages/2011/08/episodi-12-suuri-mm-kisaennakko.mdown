@@ -1,0 +1,257 @@
+date: 2011-08-15 13:08:27 +0200
+categories: episodit
+read more: Lue lis&auml;&auml; episodista
+summary: Suomen joukkue, matkavalinnat, suurimmat ennakkosuosikit ja dsRNA.
+
+#  Episodi 12: Suuri MM-kisaennakko
+
+### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/29811-episodi-12-suuri-mm-kisaennakko)
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&amp;width=292&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
+</iframe>
+
+  <h2>Muistiinpanot</h2>
+
+  <p>
+    <b>DRACO</b>
+  </p>
+  <ul>
+    <li>
+      <a href="http://web.mit.edu/newsoffice/2011/antiviral-0810.html%20">New drug could cure nearly any viral infection</a>
+    </li>
+    <li>Tieteellinen artikkeli aiheesta: <a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0022572">Broad-Spectrum Antiviral Therapeutics</a>
+    </li>
+  </ul>
+  <p>
+    <br>
+  </p>
+  <p>
+    <b>Menneet:</b>
+  </p>
+  <ul>
+    <li>Rastiviikot? (Lakanen voitti Sveitsiss&auml;, t&auml;hd&auml;nnee Vuokattiin)
+    </li>
+  </ul>
+  <p>
+    <br>
+  </p>
+  <p>
+    <b>MM-kisat&nbsp;</b>
+  </p>
+  <ul>
+    <li>Katsastukset
+    </li>
+    <li style="list-style: none">
+      <ul>
+        <li>Tulokset
+        </li>
+        <li style="list-style: none">
+          <ul>
+            <li>
+              <a href="http://www.suunnistusliitto.fi/SSL/sslwww.nsf/sp?open&amp;cid=Huippu&amp;screen=newsscreen&amp;newsid=content5B4FE1">Sprintti Fin-5:ll&auml;</a>
+            </li>
+            <li style="list-style: none">
+              <ul>
+                <li>Miehet
+                </li>
+                <li style="list-style: none">
+                  <ul>
+                    <li>1) Tuomas Tervo RR 16.24, 2) Olli-Markus Taivainen PelPo 16.26, 3) David Brickhill-Jones RasKu 16.27, 4) Leo Laakkonen TP 16.32, 5) Tero F&ouml;hr VeVe 16.34, 6) Olli-Pekka Koistinen Delta 16.40
+                    </li>
+                  </ul>
+                </li>
+                <li>Naiset
+                </li>
+                <li style="list-style: none">
+                  <ul>
+                    <li>1) Anni-Maija Fincke TP 16.18, 2) Merja Rantanen KooVee 17.00, 3) Venla Niemi TP 17.11, 4) Maija Sianoja MSParma 17.16, 5) Inga Dambe PR 17.19, 6) Natalia Vinogradova AngA 17.21
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="http://www.suunnistusliitto.fi/SSL/sslwww.nsf/sp?open&amp;cid=kisakanava2011&amp;screen=newsscreen&amp;newsid=content4B4F5B">Keskimatka</a>
+            </li>
+            <li>
+              <a href="http://www.suunnistusliitto.fi/SSL/sslwww.nsf/sp?open&amp;cid=kisakanava2011&amp;screen=newsscreen&amp;newsid=content517608">Pitk&auml; matka</a>
+            </li>
+            <li style="list-style: none">
+              <ul>
+                <li>Naiset: 1) Anni-Maija Fincke 1.25.17, 2) Saila Kinni 1.26.19, 3) Minna Kauppi 1.28.16, 4) Merja Rantanen 1.28.53, 5) Marttiina Joensuu 1.30.05, 6) Venla Niemi 1.32.36, 7) Riina Kuuselo 1.35.18, 8) Heini Wennman 1.40.18, 9) Marika Teini 1.41.19, 10) Sofia Haajanen 1.45.06, 11) Maria Rantala 1.59.41.
+                </li>
+                <li>Miehet: 1) Pasi Ikonen 1.38.40, 2) Olli-Markus Taivainen 1.42.28, 3) Jonne Lehto 1.43.15, 4) Topi Anjala 1.44.46, 5) Jonne Lakanen 1.50.14, 6) Jarkko Huovila 1.51.37, 7) Aaro Asikainen 1.53.46, 8) Antti Nurmonen 1.56.51 9) Mats Haldin 1.57.06, 10) Hannu Airila 1.57.43, 11) Timo Joensuu 2.06.45.
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>Suomen joukkue
+        </li>
+        <li style="list-style: none">
+          <ul>
+            <li>
+              <a href="http://www.ssl.fi/SSL/sslwww.nsf/sp?open&amp;cid=Media&amp;screen=newsscreen&amp;newsid=content25AEEE">Matkavalinnat</a>
+            </li>
+            <li style="list-style: none">
+              <ul>
+                <li>Miehet:&nbsp;
+                </li>
+                <li style="list-style: none">
+                  <ul>
+                    <li>Sprintti: Olli-Pekka Koistinen, Olli-Markus Taivainen, Tuomas Tervo
+                    </li>
+                    <li>Keskimatka: Tero F&ouml;hr, Jarkko Huovila, Pasi Ikonen
+                    </li>
+                    <li>Pitk&auml;: Tero F&ouml;hr, Pasi Ikonen, Jonne Lehto
+                    </li>
+                  </ul>
+                </li>
+                <li>Naiset:
+                </li>
+                <li style="list-style: none">
+                  <ul>
+                    <li>Sprintti: Anni-Maija Fincke, Venla Niemi
+                    </li>
+                    <li>Keskimatka: Bodil Holmstr&ouml;m, Minna Kauppi, Saila Kinni, Merja Rantanen
+                    </li>
+                    <li>Pitk&auml;: Anni-Maija Fincke, Minna Kauppi, Merja Rantanen
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Muut uutiset
+    </li>
+    <li style="list-style: none">
+      <ul>
+        <li>Ungdomens 10mila, Pyrinn&ouml;n pojat voittivat nuorella joukkueella.
+        </li>
+        <li>
+          <a href="http://live.time4results.com/yu/2011/kalevankisat/15-1-r.html">Kalevan kisat 5000 m, Siikaluoma 14.52,54</a>
+        </li>
+        <li style="list-style: none">
+          <ul>
+            <li>Samaa vauhtia kuin parhaat sveitsil&auml;iset alkukes&auml;st&auml;
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>MM-kisojen sivut
+    </li>
+    <li style="list-style: none">
+      <ul>
+        <li>Aika hanurista
+        </li>
+        <li>Aikansa el&auml;nyt tapa pit&auml;&auml; bulletineja p&auml;&auml;asiallisena viestint&auml;v&auml;lineen&auml;
+        </li>
+        <li style="list-style: none">
+          <ul>
+            <li>T&auml;ydellinen rakenteen puute
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Seuraaminen
+    </li>
+    <li style="list-style: none">
+      <ul>
+        <li>TV-l&auml;hetykset
+        </li>
+        <li>Netiss&auml;
+        </li>
+        <li style="list-style: none">
+          <ul>
+            <li>
+              <a href="http://www.swiss-orienteering.ch/index.php?option=com_content&amp;task=view&amp;id=1410&amp;Itemid=163">Sveitsin liiton MM-ennakko, juoksijaesittelyt</a>
+            </li>
+            <li>
+              <a href="http://news.worldofo.com/2011/08/05/woc-2011-france-early-preview/">World of O:n ennakkopaketti</a>
+            </li>
+            <li style="list-style: none">
+              <ul>
+                <li>
+                  <a href="http://runners.worldofo.com/woc2011.html">Joukkue-esittelyt</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="http://www.suunnistus.net/G2/code/apps/woc_all/">Suunnistus.netin MM-sivut</a>
+            </li>
+            <li>
+              <a href="http://www.hevoskuuri.fi/suunnistus/1019-ranskan-mm-kisat-kaeynnistyvaet-viikonloppuna">Hevoskuurin ennakkojuttu</a>
+            </li>
+            <li>
+              <a href="http://www.suunnistusliitto.fi/SSL/sslwww.nsf/sp?open&amp;cid=kisakanava2011">Kisakanava</a> (suomi, plussana Tainin ennakkokommentit)
+            </li>
+            <li style="list-style: none">
+              <ul>
+                <li>
+                  <a href="http://www.suunnistusliitto.fi/SSL/sslwww.nsf/sp?open&amp;cid=content381F2A&amp;treecomponent2nf=2010/Navi/Kisakanava2011/content3799AC/content381F2A&amp;treecomponent2nfa=o">Miehet</a>
+                </li>
+                <li>
+                  <a href="http://www.suunnistusliitto.fi/SSL/sslwww.nsf/sp2?open&amp;cid=content382BC4&amp;treecomponent2nf=2010/Navi/Kisakanava2011/content3799AC/content382BC4&amp;treecomponent2nfa=o">Naiset</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="http://live.woc2011.fr/">J&auml;rjest&auml;jien live-tulossivu</a>
+            </li>
+            <li style="list-style: none">
+              <ul>
+                <li>Alhaalla t&auml;ll&auml; hetkell&auml;
+                </li>
+                <li>Video-feed finaaleista
+                </li>
+                <li>Karsinnoistakin livetuloksia satelliittiyhteyden avulla, jos toimii
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Matkat, ohjelma
+    </li>
+    <li style="list-style: none">
+      <ul>
+        <li>Lauantai 13.8. pitk&auml;n karsinta
+        </li>
+        <li>Sunnuntai 14.8. keskarin karsinta
+        </li>
+        <li>Maanantai 15.8. avajaiset
+        </li>
+        <li>Tiistai 16.8. sprintin karsinta ja finaali
+        </li>
+        <li>Keskiviikko 17.8. pitk&auml;n finaali
+        </li>
+        <li>Torstai 18.8. v&auml;lip&auml;iv&auml;
+        </li>
+        <li>Perjantai 19.8. keskimatkan finaali
+        </li>
+        <li>Lauantai 20.8. viesti ja banketti
+        </li>
+      </ul>
+    </li>
+    <li>Maastot
+    </li>
+    <li>Ennakkosuosikit
+    </li>
+  </ul>
+  <p>
+    <br>
+  </p>
+  <p>
+    <b>Rastinotot</b>
+  </p>
+  <ul>
+    <li>Timo: <a href="http://www.gardamtb.com">Garda MTB</a>
+    </li>
+    <li>Jarkko: Swiss O Week 2014 Zermattissa.
+    </li>
+  </ul>
