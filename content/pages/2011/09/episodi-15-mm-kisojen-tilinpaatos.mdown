@@ -1,0 +1,494 @@
+date: 2011-09-01 13:08:27 +0200
+categories: episodit
+read more: Lue lis&auml;&auml; episodista
+summary: MM-kisojen j&auml;lkipyykki, el&auml;k&ouml;ityminen ja kansantalous.
+
+# Episodi 15: MM-kisojen tilinp&auml;&auml;t&ouml;s
+
+### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/30775-episodi-15-mm-kisojen-tilinpaatos)
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&amp;width=292&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
+</iframe>
+
+<h2>
+  Muistiinpanot
+</h2>
+
+<ul>
+  <li>Intro
+  </li>
+  <li>MM-kisojen loppu
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>Keskimatka
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Suomalaisittain suuri pettymys, ei mitaleita
+          </li>
+          <li>Minna nelj&auml;s
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Pitk&auml;&auml;n kiinni hopeassa, viel&auml; varvauksessa
+              </li>
+            </ul>
+          </li>
+          <li>Tulokset
+            
+            <div>
+              <table cellspacing="0" cellpadding="0">
+                <tbody>
+                  <tr>
+                    <td valign="middle">
+                      <p>
+                        1. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Gueorgiou.jpg">Gueorgiou</a>
+                      </p>
+                    </td>
+                    <td valign="middle">
+                      <p>
+                        1. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Jansson.jpg">Jansson</a>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="middle">
+                      <p>
+                        2. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Oberg.jpg">Oberg</a>
+                      </p>
+                    </td>
+                    <td valign="middle">
+                      <p>
+                        2. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Bobach.jpg">Bobach</a>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="middle">
+                      <p>
+                        3. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Ludanes.jpg">Lundanes</a>
+                      </p>
+                    </td>
+                    <td valign="middle">
+                      <p>
+                        3. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Wyder.jpg">Wyder</a>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="middle">
+                      <p>
+                        4. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Kratov.jpg">Kratov</a>
+                      </p>
+                    </td>
+                    <td valign="middle">
+                      <p>
+                        4. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Kauppi.jpg">Kauppi</a>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="middle">
+                      <p>
+                        5. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Vytautas.jpg">Vytautas Gvildys</a>
+                      </p>
+                    </td>
+                    <td valign="middle">
+                      <p>
+                        5. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Vinogradova.jpg">Vinogradova</a>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="middle">
+                      <p>
+                        6. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Gonon.jpg">Gonon</a>
+                      </p>
+                    </td>
+                    <td valign="middle">
+                      <p>
+                        6. <a href="http://live.woc2011.fr/data/uploads/maps/middle_jpg/Alm.jpg">Alm</a>
+                      </p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<div style="margin-left: 2em">
+  <ul>
+    <li style="list-style: none">
+      <ul>
+        <li>Miehet
+        </li>
+        <li style="list-style: none">
+          <ul>
+            <li>
+              <a href="http://live.woc2011.fr/data/uploads/maps/19082011/FinaleMD.Men.gif">Kartta</a>
+            </li>
+          </ul>
+        </li>
+        <li>Naiset
+        </li>
+        <li style="list-style: none">
+          <ul>
+            <li>
+              <a href="http://live.woc2011.fr/data/uploads/maps/19082011/FinaleMD.Women.gif">Kartta</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Viesti
+      <div>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td valign="middle">
+                <p>
+                  <b>MEN Relay</b>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  leg 1
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  leg 2
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  leg 3
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td valign="middle">
+                <p>
+                  <b>1 - &nbsp; France</b>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Men/France1.jpg">Philippe Adamski</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Men/France2.jpg">Fran&ccedil;ois Gonon</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Men/France3.jpg">Thierry Gueorgiou</a>
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td valign="middle">
+                <p>
+                  <b>2 -&nbsp; Norway</b>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Men/Norway1.jpg">Carl Waaler Kaas</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Men/Norway2.jpg">Anders Nordberg</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Men/Norway3.jpg">Olav Lundanes</a>
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td valign="middle">
+                <p>
+                  <b>3 - Sweden</b>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Men/Sweden1.jpg">Anders Holmberg</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Men/Sweden2.jpg">Olle Bostr&ouml;m</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Men/Sweden3.jpg">David Andersson</a>
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td valign="middle">
+                <p>
+                  &nbsp;
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  &nbsp;
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  &nbsp;
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  &nbsp;
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td valign="middle">
+                <p>
+                  <b>WOMEN Relay</b>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  &nbsp;
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  &nbsp;
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  &nbsp;
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td valign="middle">
+                <p>
+                  <b>1&nbsp; - Finland</b>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Finland1.jpg">Anni-Maija Fincke</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Finland2.jpg">Merja Rantanen</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Finland3.jpg">Minna Kauppi</a>
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td valign="middle">
+                <p>
+                  <b>2&nbsp; - &nbsp; Czech</b>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Czech1.jpg">Martina Zverinova</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Czech2.jpg">Eva Jurenikova</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Czech3.jpg">Dana Brozkova</a>
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td valign="middle">
+                <p>
+                  <b>3 - Sweden</b>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Sweden1.jpg">Helena Jansson</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Sweden2.jpg">Tove Alexandersson</a>
+                </p>
+              </td>
+              <td valign="middle">
+                <p>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Sweden3.jpg">Annika Billstam</a>
+                </p>
+                <p>
+                  <br />
+                </p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+<ul>
+  <li style="list-style: none">
+    <div style="margin-left: 2em">
+      <ul>
+        <li>Naiset
+        </li>
+        <li style="list-style: none">
+          <ul>
+            <li>Uskomaton j&auml;nnitysn&auml;ytelm&auml;
+            </li>
+            <li>7(?) joukkuetta johti viesti&auml; ankkuriosuudella
+            </li>
+            <li>Minna p&auml;&auml;si mukaan taisteluun lopun lyhyemm&auml;ll&auml; hajonnalla, tv-kuvan missattua h&auml;net kokonaan varvauksessa.
+            </li>
+            <li>Minna ja Friedrich menossa varmoille mitaleille, kunnes eksyiv&auml;t toiseksi viimeisell&auml; v&auml;lill&auml;.
+            </li>
+            <li>Minnankin aika l&auml;hes 5 minuuttia hitaampi kuin nopeimmat.
+            </li>
+            <li style="list-style: none">
+              <ul>
+                <li>
+                  <a href="http://live.woc2011.fr/data/uploads/maps/WOC2011_Relay_Women/Finland3.jpg">Minnan reitti</a>
+                </li>
+              </ul>
+            </li>
+            <li>Lopussa kolmen maailmanmestarin kirikamppailu
+            </li>
+            <li>TV-ohjaaja aivan pihalla
+            </li>
+            <li>
+              <a href="http://live.woc2011.fr/data/uploads/result/rl_woc2011_relay.pdf">Tulokset</a>
+            </li>
+          </ul>
+        </li>
+        <li>Miehet
+        </li>
+        <li style="list-style: none">
+          <ul>
+            <li>Eiv&auml;t tehneet virheit&auml; l&auml;hesk&auml;&auml;n naisten tapaan
+            </li>
+            <li>Oli l&auml;hes tyls&auml;&auml; seurattavaa naisten kisan j&auml;lkeen
+            </li>
+            <li>Thierry sai hakemansa viestikullan suvereenin esityksen j&auml;lkeen.
+            </li>
+            <li>
+              <a href="http://live.woc2011.fr/data/uploads/result/rl_woc2011_relay.pdf">Tulokset</a>
+            </li>
+            <li>Suomalaiset ei tikiss&auml;, torpedoitui jo aloitukseen
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </li>
+  <li>Lopputulema MM-kisoista
+  </li>
+</ul>
+<p>
+  <br />
+</p>
+<ul>
+  <li>Muuta
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>Kadonneet-palsta
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Rastikarhujen seuraviiri mallia beach flag
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Kadonnut Jukolassa
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://antin.net/">antin.net</a>
+          </li>
+          <li>
+            <a href="http://www.kolumbus.fi/ansn/">http://www.kolumbus.fi/ansn/</a>
+          </li>
+          <li>Jarkon tuulipuvun housut
+          </li>
+          <li style="list-style: none">
+            <ul>
+              <li>Salmelinin per&auml;kontista
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>NuJu
+      </li>
+      <li>Py&ouml;r&auml;suunnistuksen MM-kisat k&auml;ynniss&auml; Italiassa
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Saarela
+          </li>
+          <li>Steng&aring;rd
+          </li>
+          <li>Kaskinen
+          </li>
+        </ul>
+      </li>
+      <li>SM-kisat alkavat kohta
+      </li>
+    </ul>
+  </li>
+  <li>Rastinotot
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>Timo
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>Verkkokauppa <a href="http://www.wiggle.co.uk/">http://www.wiggle.co.uk/</a>
+          </li>
+        </ul>
+      </li>
+      <li>Jarkko
+      </li>
+      <li style="list-style: none">
+        <ul>
+          <li>
+            <a href="http://www.npr.org/blogs/money/">Planet Money</a> -podcast
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
