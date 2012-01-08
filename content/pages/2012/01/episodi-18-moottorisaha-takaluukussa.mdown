@@ -13,70 +13,70 @@ summary: Liittosiirrot, seurasiirrot ja siirrot.
   Muistiinpanot
 </h2>
 
+<ul>
+  <li>Seurasiirrot
+  </li>
+  <li style="list-style: none">
     <ul>
-      <li>Seurasiirrot
+      <li>Hamppi
+      </li>
+      <li>
+        <a href="http://www.orienterare.nu/n/19944">Merz ja Nigglit Tisareniin</a>
+      </li>
+      <li>Timbe
+      </li>
+      <li>Heikka
+      </li>
+      <li>
+        <a href="http://www.ts.fi/online/urheilu/295759.html">Vroni K&ouml;nig-Salmi Paimioon</a>
+      </li>
+      <li>Tommi T&ouml;lkk&ouml; MS Parmaan
+      </li>
+      <li>
+        <a href="http://www.malungsok.se/2011/12/12/ny-mard-johan-backman/">Johan B&auml;ckman Malungiin</a>
       </li>
       <li style="list-style: none">
         <ul>
-          <li>Hamppi
-          </li>
           <li>
-            <a href="http://www.orienterare.nu/n/19944">Merz ja Nigglit Tisareniin</a>
-          </li>
-          <li>Timbe
-          </li>
-          <li>Heikka
-          </li>
-          <li>
-            <a href="http://www.ts.fi/online/urheilu/295759.html">Vroni K&ouml;nig-Salmi Paimioon</a>
-          </li>
-          <li>Tommi T&ouml;lkk&ouml; MS Parmaan
-          </li>
-          <li>
-            <a href="http://www.malungsok.se/2011/12/12/ny-mard-johan-backman/">Johan B&auml;ckman Malungiin</a>
-          </li>
-          <li style="list-style: none">
-            <ul>
-              <li>
-                <a href="http://www.malungsok.se/2011/11/28/ny-elittranare-ansluter-sig-till-malungs-ok/">Kalapuikko-Karlsson vet&auml;j&auml;ksi</a>
-              </li>
-            </ul>
-          </li>
-          <li>Tomi Mattila AngA:an
-          </li>
-          <li>Pavel Kubat Ter&auml;&auml;n
-          </li>
-          <li>Halden vahvistui
-          </li>
-          <li style="list-style: none">
-            <ul>
-              <li>Paluumuuttaja Mattias Karlsson jr
-              </li>
-              <li>Bodil
-              </li>
-            </ul>
+            <a href="http://www.malungsok.se/2011/11/28/ny-elittranare-ansluter-sig-till-malungs-ok/">Kalapuikko-Karlsson vet&auml;j&auml;ksi</a>
           </li>
         </ul>
       </li>
-      <li>
-        <a href="http://www.suunnistus.net/G2/code/apps/news/index.php?WriteID=68589">SuunnistusNet Kimmo Vilskan k&auml;siin</a>
+      <li>Tomi Mattila AngA:an
       </li>
-      <li>
-        <a href="http://www.ssl.fi/SSL/sslwww.nsf/sp?open&amp;cid=Liitto&amp;screen=newsscreen&amp;newsid=content2A46CE">Liiton uusi toimitusjohtaja on Mika Ilom&auml;ki</a>
+      <li>Pavel Kubat Ter&auml;&auml;n
       </li>
-      <li>
-        <a href="http://www.ssl.fi/SSL/sslwww.nsf/sp?open&amp;cid=Huippu&amp;screen=newsscreen&amp;newsid=content3E87ED">Ryhm&auml;valinnat</a>
-      </li>
-      <li>Rastinotot
+      <li>Halden vahvistui
       </li>
       <li style="list-style: none">
         <ul>
-          <li>Timo: Tasapainolauta
+          <li>Paluumuuttaja Mattias Karlsson jr
           </li>
-          <li>Jarkko: <a href="http://www.amazon.com/dp/1439167176/?tag=jlainenet-20">Ken Jenningsin kirja Maphead</a>
+          <li>Bodil
           </li>
         </ul>
       </li>
     </ul>
+  </li>
+  <li>
+    <a href="http://www.suunnistus.net/G2/code/apps/news/index.php?WriteID=68589">SuunnistusNet Kimmo Vilskan k&auml;siin</a>
+  </li>
+  <li>
+    <a href="http://www.ssl.fi/SSL/sslwww.nsf/sp?open&amp;cid=Liitto&amp;screen=newsscreen&amp;newsid=content2A46CE">Liiton uusi toimitusjohtaja on Mika Ilom&auml;ki</a>
+  </li>
+  <li>
+    <a href="http://www.ssl.fi/SSL/sslwww.nsf/sp?open&amp;cid=Huippu&amp;screen=newsscreen&amp;newsid=content3E87ED">Ryhm&auml;valinnat</a>
+  </li>
+  <li>Rastinotot
+  </li>
+  <li style="list-style: none">
+    <ul>
+      <li>Timo: Tasapainolauta
+      </li>
+      <li>Jarkko: <a href="http://www.amazon.com/dp/1439167176/?tag=jlainenet-20">Ken Jenningsin kirja Maphead</a>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 
