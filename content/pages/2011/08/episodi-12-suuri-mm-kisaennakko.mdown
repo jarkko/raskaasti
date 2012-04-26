@@ -5,7 +5,10 @@ summary: Suomen joukkue, matkavalinnat, suurimmat ennakkosuosikit ja dsRNA.
 
 #  Episodi 12: Suuri MM-kisaennakko
 
-### [Kuuntele episodi](http://podcast.raskaasti.fi/3233/29811-episodi-12-suuri-mm-kisaennakko)
+### [Kuuntele episodi](http://traffic.libsyn.com/raskaasti/episodi-12.mp3)
+
+<script type="text/javascript" src="http://player.wizzard.tv/player/o/j/x/133545904492/config/k-a981f8b500e1d1de/uuid/root/height/240/width/480/episode/k-72053c868434a747.m4v"></script>
+
 <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRaskaasti%2F164707666913459&amp;width=292&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true">
 </iframe>
 
