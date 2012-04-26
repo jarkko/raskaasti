@@ -7,7 +7,7 @@ summary: Hisu-SM:t, haastattelussa hevoskuuri.fi:n Petri Ik&auml;valko, puheenai
 
 ### [Kuuntele episodi](http://traffic.libsyn.com/raskaasti/raskaasti-2-final_mixdown.mp3)
 
-<audio src="http://traffic.libsyn.com/raskaasti/raskaasti-2-final_mixdown.mp3">
+<audio src="http://traffic.libsyn.com/raskaasti/raskaasti-2-final_mixdown.mp3" />
 
 <script type="text/javascript" src="http://player.wizzard.tv/player/o/j/x/133545787136/config/k-a981f8b500e1d1de/uuid/root/height/360/width/640/episode/k-ba480c74b97a986d.m4v"></script>
 
