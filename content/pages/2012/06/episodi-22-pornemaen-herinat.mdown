@@ -1,4 +1,4 @@
-date: 2012-06-14 13:52:27 +0300
+date: 2012-06-21 13:52:27 +0300
 categories: episodit
 read more: Lue lis&auml;&auml; episodista
 summary: Jukola taustapeiliss&auml;
