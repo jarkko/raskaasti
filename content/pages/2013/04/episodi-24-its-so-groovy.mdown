@@ -3,7 +3,7 @@ categories: episodit
 read more: Lue lis&auml;&auml; episodista
 summary: It's so groovy
 
-# Episodi 22: It's so groovy
+# Episodi 24: It's so groovy
 
 ### [Kuuntele episodi](http://traffic.libsyn.com/raskaasti/episodi-24-mono.output.mp3)
 
