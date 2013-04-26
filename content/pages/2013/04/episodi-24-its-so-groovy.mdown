@@ -9,15 +9,20 @@ summary: It&#x27;s so groovy
 
 MM-kotikisavuosi polkaistaan k&auml;yntiin kohisten sulavien hankien katveista.
 
-<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2300606/height/240/width/480/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="240" width="480" scrolling="no"></iframe>
-
 ## Muistiinpanot:
 
 ### Rastinotot:
 
-* Timo
-  * [Koovee hakee nuorten MM-kisoja 2017 FIN5-viikon yhteyteen](http://www.ssl.fi/ssl/sslwww.nsf/sp?open&amp;cid=Media&amp;screen=newsscreen&amp;newsid=content40D5F5)
-* Jarkko
-  * Rolf Dobelli: [The Art of Thinking Clearly](http://www.theartofthinkingclearly.com/?lang=en)
-    * [Amazon.com](http://www.amazon.com/dp/0062219685/?tag=jlainenet-20) (Kindle-versio jo nyt saatavilla)
-    * [Suomennos &ldquo;Selke&auml;n ajattelun taito&rdquo; Hesarin verkkokaupassa](http://www.eshop.fi/hskauppa/shop/tuoteryhmat/hs_kirjat/prod__10033_Selke&auml;n%20ajattelun%20taito).
+*  Timo
+   
+   *  [Koovee hakee nuorten MM-kisoja 2017 FIN5-viikon yhteyteen](http://www.ssl.fi/ssl/sslwww.nsf/sp?open&amp;cid=Media&amp;screen=newsscreen&amp;newsid=content40D5F5)
+
+*  Jarkko
+   
+   *  Rolf Dobelli: [The Art of Thinking Clearly](http://www.theartofthinkingclearly.com/?lang=en)
+      
+      *  [Amazon.com](http://www.amazon.com/dp/0062219685/?tag=jlainenet-20) (Kindle-versio jo nyt saatavilla)
+      
+      * [Suomennos &ldquo;Selke&auml;n ajattelun taito&rdquo; Hesarin verkkokaupassa](http://www.eshop.fi/hskauppa/shop/tuoteryhmat/hs_kirjat/prod__10033_Selke&auml;n%20ajattelun%20taito).
+
+<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2300606/height/240/width/480/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="240" width="480" scrolling="no"></iframe>
