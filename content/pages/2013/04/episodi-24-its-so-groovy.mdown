@@ -1,9 +1,9 @@
 date: 2013-04-25 13:52:27 +0300
 categories: episodit
 read more: Lue lis&auml;&auml; episodista
-summary: It's so groovy
+summary: It&#x27;s so groovy
 
-# Episodi 24: It's so groovy
+# Episodi 24: It&#x27;s so groovy
 
 ### [Kuuntele episodi](http://traffic.libsyn.com/raskaasti/episodi-24-mono.output.mp3)
 
@@ -16,8 +16,8 @@ MM-kotikisavuosi polkaistaan k&auml;yntiin kohisten sulavien hankien katveista.
 ### Rastinotot:
 
 * Timo
-  * [Koovee hakee nuorten MM-kisoja 2017 FIN5-viikon yhteyteen](http://www.ssl.fi/ssl/sslwww.nsf/sp?open&cid=Media&screen=newsscreen&newsid=content40D5F5)
+  * [Koovee hakee nuorten MM-kisoja 2017 FIN5-viikon yhteyteen](http://www.ssl.fi/ssl/sslwww.nsf/sp?open&amp;cid=Media&amp;screen=newsscreen&amp;newsid=content40D5F5)
 * Jarkko
   * Rolf Dobelli: [The Art of Thinking Clearly](http://www.theartofthinkingclearly.com/?lang=en)
     * [Amazon.com](http://www.amazon.com/dp/0062219685/?tag=jlainenet-20) (Kindle-versio jo nyt saatavilla)
-    * [Suomennos “Selkeän ajattelun taito” Hesarin verkkokaupassa](http://www.eshop.fi/hskauppa/shop/tuoteryhmat/hs_kirjat/prod__10033_Selkeän%20ajattelun%20taito).
+    * [Suomennos &ldquo;Selke&auml;n ajattelun taito&rdquo; Hesarin verkkokaupassa](http://www.eshop.fi/hskauppa/shop/tuoteryhmat/hs_kirjat/prod__10033_Selke&auml;n%20ajattelun%20taito).
