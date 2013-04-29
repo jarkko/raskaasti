@@ -3,7 +3,7 @@ categories: episodit
 read more: Lue lis&auml;&auml; episodista
 summary: Raskaastin erikoissyv&auml;kurkkuluotauksessa suunnistusmaajoukkueen p&auml;&auml;valmentaja Juha &ldquo;Thunder&rdquo; Taini.
 
-# Episodi 24: Vuokatissa jyr&auml;ht&auml;&auml;
+# Episodi 25: Vuokatissa jyr&auml;ht&auml;&auml;
 
 ### [Kuuntele episodi](http://traffic.libsyn.com/raskaasti/episodi-24-mono.output.mp3)
 
