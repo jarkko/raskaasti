@@ -1,0 +1,13 @@
+date: 2013-04-29 16:52:27 +0300
+categories: episodit
+read more: Lue lis&auml;&auml; episodista
+summary: Raskaastin erikoissyv&auml;kurkkuluotauksessa suunnistusmaajoukkueen p&auml;&auml;valmentaja Juha &ldquo;Thunder&rdquo; Taini.
+
+# Episodi 24: Vuokatissa jyr&auml;ht&auml;&auml;
+
+### [Kuuntele episodi](http://traffic.libsyn.com/raskaasti/episodi-24-mono.output.mp3)
+
+Raskaastin erikoissyv&auml;kurkkuluotauksessa suunnistusmaajoukkueen p&auml;&auml;valmentaja Juha &ldquo;Thunder&rdquo; Taini.
+
+
+<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2304506/height/240/width/480/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="240" width="480" scrolling="no"></iframe>
