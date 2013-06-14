@@ -1,0 +1,13 @@
+date: 2013-04-29 16:52:27 +0300
+categories: episodit
+read more: Lue lis&auml;&auml; episodista
+summary: Raskaastin erikoissyv&auml;kurkkuluotauksessa suunnistusmaajoukkueen p&auml;&auml;valmentaja Juha &ldquo;Thunder&rdquo; Taini.
+
+# Episodi 27: Vihreä nortti – lajinsa viimeinen
+
+### [Kuuntele episodi](http://traffic.libsyn.com/raskaasti/raskaasti-27_mixdown-new.mp3)
+
+Yhteenvetoa alkukauden pöhinöistä ja Jukola-spekulaatiota.
+
+
+<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2357299/height/240/width/480/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="240" width="480" scrolling="no"></iframe>
