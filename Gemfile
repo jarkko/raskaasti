@@ -1,4 +1,4 @@
-source :gemcutter
+source 'https://rubygems.org'
 
 gem "builder", "2.1.2"
 gem "haml", "3.0.12"
